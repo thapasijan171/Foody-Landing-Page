@@ -28,7 +28,7 @@ Welcome to the Foody Landing Page project! This is a web page created using HTML
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/foody-landing-page.git
+   git clone https://github.com/thapasijan171/Foody-Landing-Page.git
     ```
 
 ## Usage
